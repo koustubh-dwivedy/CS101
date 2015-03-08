@@ -141,7 +141,7 @@ void display_output()
 }
 void display_input()
 {
-    system("start INPUT.csv");
+    system("start INPUT.txt");
 }
 int main()
 {
