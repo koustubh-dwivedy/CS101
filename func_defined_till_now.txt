@@ -1,0 +1,15 @@
+1. transform_input_to_mat(int *mat)
+	This stores inputted matrix (inputted in INPUT.txt) in an array whose pointer is the function's argument.  
+2. input_popup()
+	This pops up INPUT.txt file to input matrix.
+3. row_in_input()
+	Outputs number of rows in INPUT.txt
+4. col_in_input()
+	Outputs number of columns in INPUT.txt
+5. output(int *pntr_to_mtrx,int rows,int columns)
+	Stores matrix (whose pointer is provided) to OUTPUT.csv
+6. display_output()
+	Pops up OUTPUT.csv
+7. display_input()
+	Pops up INPUT.txt
+8. 
