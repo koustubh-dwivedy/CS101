@@ -31,11 +31,15 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="addition_operator.cpp" />
+		<Unit filename="assignment_operator.cpp" />
 		<Unit filename="constructor_matrix.cpp" />
 		<Unit filename="input_matrix.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="main_header.h" />
+		<Unit filename="multiplication_operator.cpp" />
 		<Unit filename="output.cpp" />
+		<Unit filename="subtraction_operator.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

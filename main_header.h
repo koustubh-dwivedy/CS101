@@ -17,10 +17,10 @@ public:
     double matrix[128][128];
     Matrix(int);
     Matrix(int,int);
-    // Define = operator
-    // Add addition operator
-    // Add subtraction operator
-    // Add multiplication operator
+    Matrix operator=(Matrix);
+    Matrix operator+(Matrix);
+    Matrix operator-(Matrix);
+    Matrix operator*(Matrix);
     // Add PA=LU operator
     // Add inverse operator
     void display_output();

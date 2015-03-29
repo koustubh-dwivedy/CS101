@@ -46,10 +46,10 @@
 1427621525 source:e:\projects\cs 101\cs101\col_in_input.cpp
 	"header.h"
 
-1427636267 source:e:\projects\cs 101\cs101\main.cpp
+1427636967 source:e:\projects\cs 101\cs101\main.cpp
 	"main_header.h"
 
-1427636285 e:\projects\cs 101\cs101\main_header.h
+1427639300 e:\projects\cs 101\cs101\main_header.h
 	<iostream>
 	<time.h>
 	<Windows.h>
@@ -78,5 +78,16 @@
 	"main_header.h"
 
 1427636499 source:e:\projects\cs 101\cs101\constructor_matrix.cpp
+	"main_header.h"
+
+1427639551 source:e:\projects\cs 101\cs101\assignment_operator.cpp
+	"main_header.h"
+
+1427638626 source:e:\projects\cs 101\cs101\multiplication_operator.cpp
+
+1427639455 source:e:\projects\cs 101\cs101\subtraction_operator.cpp
+	"main_header.h"
+
+1427639467 source:e:\projects\cs 101\cs101\addition_operator.cpp
 	"main_header.h"
 
