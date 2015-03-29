@@ -1,0 +1,6 @@
+#include "main_header.h"
+
+int main()
+{
+    return 0;
+}

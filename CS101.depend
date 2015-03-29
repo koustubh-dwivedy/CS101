@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1427619509 source:e:\projects\cs 101\codeblocks project final\cs101\display_input.cpp
+	"header.h"
+
+1427620242 e:\projects\cs 101\codeblocks project final\cs101\header.h
+	<iostream>
+	<time.h>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<stdio.h>
+
+1427619514 source:e:\projects\cs 101\codeblocks project final\cs101\display_output_excel.cpp
+	"header.h"
+
+1427619509 source:e:\projects\cs 101\cs101\display_input.cpp
+	"header.h"
+
+1427622531 e:\projects\cs 101\cs101\header.h
+	<iostream>
+	<time.h>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<stdio.h>
+
+1427619514 source:e:\projects\cs 101\cs101\display_output_excel.cpp
+	"header.h"
+
+1427619517 source:e:\projects\cs 101\cs101\input_popup.cpp
+	"header.h"
+
+1427619523 source:e:\projects\cs 101\cs101\output_excel.cpp
+	"header.h"
+
+1427621550 source:e:\projects\cs 101\cs101\row_in_input.cpp
+	"header.h"
+
+1427622116 source:e:\projects\cs 101\cs101\transform_input_to_mat.cpp
+	"header.h"
+
+1427621525 source:e:\projects\cs 101\cs101\col_in_input.cpp
+	"header.h"
+
+1427636267 source:e:\projects\cs 101\cs101\main.cpp
+	"main_header.h"
+
+1427636285 e:\projects\cs 101\cs101\main_header.h
+	<iostream>
+	<time.h>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<stdio.h>
+
+1427633119 e:\projects\cs 101\cs101\input_header.h
+	<iostream>
+
+1427633101 e:\projects\cs 101\cs101\output_header.h
+	<iostream>
+
+1427633478 source:e:\projects\cs 101\cs101\output_class.cpp
+	"main_header.h"
+
+1427635604 source:e:\projects\cs 101\cs101\input_class.cpp
+	"main_header.h"
+
+1427636652 source:e:\projects\cs 101\cs101\input_matrix.cpp
+	"main_header.h"
+
+1427636485 source:e:\projects\cs 101\cs101\output.cpp
+	"main_header.h"
+
+1427636499 source:e:\projects\cs 101\cs101\constructor_matrix.cpp
+	"main_header.h"
+
