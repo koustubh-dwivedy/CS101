@@ -18,5 +18,5 @@ Matrix Matrix::operator=(Matrix B)
             matrix[i][j] = B.matrix[i][j];
         }
     }
-
+    return 0;
 }
