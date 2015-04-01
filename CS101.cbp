@@ -39,6 +39,7 @@
 		<Unit filename="main_header.h" />
 		<Unit filename="multiplication_operator.cpp" />
 		<Unit filename="output.cpp" />
+		<Unit filename="print.cpp" />
 		<Unit filename="subtraction_operator.cpp" />
 		<Extensions>
 			<code_completion />
