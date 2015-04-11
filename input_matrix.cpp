@@ -51,6 +51,11 @@ Matrix::Matrix(int x)
 
         Rows=rowA;
         Columns=colA;
+        matrix.resize(Rows);
+        for(int i=0; i<Rows; i++)
+        {
+            matrix[i].resize(Columns);
+        }
 
         for (int i=0; i<rowA; i++)
         {
@@ -59,5 +64,16 @@ Matrix::Matrix(int x)
                 matrix[i][j]=input[i][j];
             }
         }
+    }
+    else if(x==2)
+    {
+        Rows=1;
+        Columns=1;
+        matrix.resize(Rows);
+        for(int i=0; i<Rows; i++)
+        {
+            matrix[i].resize(Columns);
+        }
+        matrix[0][0]=0;
     }
 }
