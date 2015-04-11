@@ -43,6 +43,9 @@
 		<Unit filename="addition_operator.cpp" />
 		<Unit filename="assignment_operator.cpp" />
 		<Unit filename="constructor_matrix.cpp" />
+		<Unit filename="eigen_val.cpp" />
+		<Unit filename="equality_operator.cpp" />
+		<Unit filename="functions_req_by_koustubh.cpp" />
 		<Unit filename="input_matrix.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="main_header.h" />
@@ -50,6 +53,10 @@
 		<Unit filename="multiplication_operator.cpp" />
 		<Unit filename="output.cpp" />
 		<Unit filename="print.cpp" />
+<<<<<<< HEAD
+=======
+		<Unit filename="qr.cpp" />
+>>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 		<Unit filename="subtraction_operator.cpp" />
 		<Extensions>
 			<code_completion />

@@ -46,10 +46,17 @@
 1427621525 source:e:\projects\cs 101\cs101\col_in_input.cpp
 	"header.h"
 
+<<<<<<< HEAD
 1427888812 source:e:\projects\cs 101\cs101\main.cpp
 	"main_header.h"
 
 1427883702 e:\projects\cs 101\cs101\main_header.h
+=======
+1428757044 source:e:\projects\cs 101\cs101\main.cpp
+	"main_header.h"
+
+1428759563 e:\projects\cs 101\cs101\main_header.h
+>>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 	<iostream>
 	<time.h>
 	<Windows.h>
@@ -59,6 +66,10 @@
 	<string>
 	<stdio.h>
 	<vector>
+<<<<<<< HEAD
+=======
+	<math.h>
+>>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 
 1427633119 e:\projects\cs 101\cs101\input_header.h
 	<iostream>
@@ -84,7 +95,11 @@
 1427888574 source:e:\projects\cs 101\cs101\assignment_operator.cpp
 	"main_header.h"
 
+<<<<<<< HEAD
 1427884286 source:e:\projects\cs 101\cs101\multiplication_operator.cpp
+=======
+1428525903 source:e:\projects\cs 101\cs101\multiplication_operator.cpp
+>>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 	"main_header.h"
 
 1427884263 source:e:\projects\cs 101\cs101\subtraction_operator.cpp
@@ -96,6 +111,7 @@
 1427867402 source:e:\projects\cs 101\cs101\print.cpp
 	"main_header.h"
 
+<<<<<<< HEAD
 1428109692 source:c:\users\kishen\desktop\cs101\addition_operator.cpp
 	"main_header.h"
 
@@ -153,5 +169,17 @@
 	"main_header.h"
 
 1428109692 source:c:\users\kishen\desktop\cs101\transpose.cpp
+=======
+1428763841 source:e:\projects\cs 101\cs101\eigen_val.cpp
+	"main_header.h"
+
+1428518552 source:e:\projects\cs 101\cs101\functions_req_by_koustubh.cpp
+	"main_header.h"
+
+1428756399 source:e:\projects\cs 101\cs101\qr.cpp
+	"main_header.h"
+
+1428759587 source:e:\projects\cs 101\cs101\equality_operator.cpp
+>>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 	"main_header.h"
 
