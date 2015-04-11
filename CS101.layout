@@ -5,28 +5,40 @@
 		<Cursor1 position="491" topLine="0" />
 	</File>
 	<File name="assignment_operator.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="382" topLine="1" />
+		<Cursor1 position="382" topLine="0" />
 	</File>
-	<File name="constructor_matrix.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="247" topLine="14" />
+	<File name="constructor_matrix.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="26" topLine="0" />
+	</File>
+	<File name="eigen_val.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="977" topLine="6" />
+	</File>
+	<File name="equality_operator.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="419" topLine="0" />
+	</File>
+	<File name="functions_req_by_koustubh.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="489" topLine="11" />
 	</File>
 	<File name="input_matrix.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="1718" topLine="49" />
+		<Cursor1 position="1718" topLine="0" />
 	</File>
 	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="41" topLine="0" />
+		<Cursor1 position="242" topLine="0" />
 	</File>
 	<File name="main_header.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="300" topLine="10" />
+		<Cursor1 position="1017" topLine="30" />
 	</File>
-	<File name="multiplication_operator.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="624" topLine="0" />
+	<File name="multiplication_operator.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="365" topLine="0" />
 	</File>
 	<File name="output.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="387" topLine="0" />
 	</File>
 	<File name="print.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="206" topLine="0" />
+		<Cursor1 position="216" topLine="0" />
+	</File>
+	<File name="qr.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1218" topLine="2" />
 	</File>
 	<File name="subtraction_operator.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="496" topLine="0" />
