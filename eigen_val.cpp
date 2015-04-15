@@ -37,7 +37,7 @@ Matrix Matrix::eigen_val(Matrix A)
             if(loop_counter==2000)
             {
                 Matrix output(2);
-                cout << "The given matrix might contain complex eigenvalues which this program doesn't compute"<<endl;
+                cout << "The given matrix might contain complex eigenvalues which this program doesn't compute"<<endl<<"OR"<<endl<<"The QR transformation of this matrix doesn't exist, upon which the program relies to find the eigenvalues"<<endl;
                 return output;
                 break;
             }
