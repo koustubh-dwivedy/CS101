@@ -31,8 +31,6 @@ Matrix Matrix::eigen_val(Matrix A)
                 break;
             }
             C=B;
-            C.print();
-            cout <<endl;
             counter=0;
         }
     }

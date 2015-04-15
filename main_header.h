@@ -7,10 +7,7 @@
 #include <string>
 #include <stdio.h>
 #include <vector>
-<<<<<<< HEAD
-=======
 #include <math.h>
->>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 
 using namespace std;
 
@@ -24,8 +21,6 @@ public:
     int Columns;
     vector<vector<double> > matrix;
 
-<<<<<<< HEAD
-=======
     Matrix() // This is no error but a way (redefining parameterless (default) constructor) so that arrays of Matrix can be created.
     {
         Rows=3;
@@ -36,7 +31,6 @@ public:
             matrix[i].resize(3);
         }
     }
->>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
     Matrix(int);
     /*
         Argument    Result
@@ -54,22 +48,11 @@ public:
     Matrix operator+(Matrix);
     Matrix operator-(Matrix);
     Matrix operator*(Matrix);
-
     // Add PA=LU operator
-<<<<<<< HEAD
-    Matrix Eij(int c, int d, Matrix m_u,Matrix A);
-    Matrix Permutation(int c, int d, Matrix m_u,Matrix A);
-    Matrix choose_matrix(char charac, Matrix A);
-    Matrix Eij_rre(int c, int d, Matrix m_u,Matrix A);
-    Matrix Row_reduced(char ch,Matrix A);
-    Matrix Inverse_matrix(char ch,Matrix A);
-   // Add inverse operator
-=======
     // Add inverse operator
     Matrix eigen_val(Matrix);
     Matrix transpose(Matrix); // defined in functions_req_by_koustubh.cpp
     void qr(Matrix &A, Matrix &Q, Matrix &R);
->>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
     void display_output();
     void output_to_excel();
     void print();
