@@ -1,14 +1,10 @@
 #include"main_header.h"
-double det(Matrix &A)
+Matrix::double det(const Matrix &A)//?? only takes echelon form as input
 {
     if(A.Rows==A.Columns)
     {
     Matrix temporary(A.Rows,A.Columns,1);
-<<<<<<< HEAD
-    temporary=choose_matrix('U',A);
-=======
-    temporary=choose_matrix(U,A);
->>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
+    temporary=choose_matrix(U,A);//??
     double d=1;
     for(int i=0; i<temporary.Rows;i++)
     {
@@ -19,7 +15,7 @@ double det(Matrix &A)
     else
     {
         cout<<"This is not a square matrix. Please provide appropriate inputs."<<endl;
-        return 0;
+        return HUGE_VAL;
     }
 
 }

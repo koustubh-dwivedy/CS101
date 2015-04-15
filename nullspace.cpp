@@ -1,9 +1,5 @@
 #include "main_header.h"
-<<<<<<< HEAD
-Matrix Matrix::nullspace (Matrix A)
-=======
 Matrix nullspace (Matrix A)
->>>>>>> 031cc6d3b581b5d33170b3d68e7b3823524844ee
 {
     Matrix nspace(A.Columns,A.Columns,1);
     int nbase=0;
