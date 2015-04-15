@@ -115,7 +115,7 @@ nspace=nullspace(A)
      {
          if(solution[q]==HUGE_VAL
          cout<<'0';
-         elsecout<<solution[q];
+         else cout<<solution[q];
      }
   }
 }

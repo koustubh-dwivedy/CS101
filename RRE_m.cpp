@@ -4,7 +4,7 @@ Matrix Matrix::Row_reduced(char ch, Matrix A)
 
 
     Matrix m_rre(A.Rows,A.Columns,1);
-    m_rre=A.choose_matrix('U',A);;
+    m_rre=A.choose_matrix('U',A);
 
 
     Matrix L_rre(A.Rows,A.Rows,2);

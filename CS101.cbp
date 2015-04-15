@@ -31,18 +31,31 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="Eij.cpp" />
+		<Unit filename="Eij_rre.cpp" />
+		<Unit filename="Inverse_matrix.cpp" />
+		<Unit filename="Permutation_m.cpp" />
+		<Unit filename="RRE_m.cpp" />
 		<Unit filename="addition_operator.cpp" />
-		<Unit filename="adjoint.cpp" />
 		<Unit filename="assignment_operator.cpp" />
 		<Unit filename="constructor_matrix.cpp" />
+		<Unit filename="det.cpp" />
+		<Unit filename="eigen_val.cpp" />
+		<Unit filename="equality_operator.cpp" />
+		<Unit filename="function_checkPermutation.cpp" />
+		<Unit filename="functions_req_by_koustubh.cpp" />
 		<Unit filename="input_matrix.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="main_header.h" />
+		<Unit filename="matrix_L_m.cpp" />
 		<Unit filename="multiplication_operator.cpp" />
+		<Unit filename="nullspace.cpp" />
 		<Unit filename="output.cpp" />
-		<Unit filename="partSol.cpp" />
 		<Unit filename="print.cpp" />
+		<Unit filename="qr.cpp" />
+		<Unit filename="rank.cpp" />
 		<Unit filename="subtraction_operator.cpp" />
+		<Unit filename="transpose.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />

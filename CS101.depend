@@ -134,3 +134,89 @@
 1428534786 source:e:\projects\cs 101\linearalgebra-master\subtraction_operator.cpp
 	"main_header.h"
 
+1429105485 source:c:\users\koustubh dwivedy\documents\github\cs101\eij.cpp
+	"main_header.h"
+
+1429110313 c:\users\koustubh dwivedy\documents\github\cs101\main_header.h
+	<iostream>
+	<time.h>
+	<Windows.h>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<stdio.h>
+	<vector>
+	<math.h>
+
+1429105485 source:c:\users\koustubh dwivedy\documents\github\cs101\eij_rre.cpp
+	"main_header.h"
+
+1429105485 source:c:\users\koustubh dwivedy\documents\github\cs101\permutation_m.cpp
+	"main_header.h"
+
+1429108598 source:c:\users\koustubh dwivedy\documents\github\cs101\rre_m.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\addition_operator.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\assignment_operator.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\constructor_matrix.cpp
+	"main_header.h"
+
+1428775295 source:c:\users\koustubh dwivedy\documents\github\cs101\eigen_val.cpp
+	"main_header.h"
+
+1428759587 source:c:\users\koustubh dwivedy\documents\github\cs101\equality_operator.cpp
+	"main_header.h"
+
+1428518552 source:c:\users\koustubh dwivedy\documents\github\cs101\functions_req_by_koustubh.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\input_matrix.cpp
+	"main_header.h"
+
+1429111189 source:c:\users\koustubh dwivedy\documents\github\cs101\main.cpp
+	"main_header.h"
+
+1429105485 source:c:\users\koustubh dwivedy\documents\github\cs101\matrix_l_m.cpp
+	"main_header.h"
+
+1429111016 source:c:\users\koustubh dwivedy\documents\github\cs101\multiplication_operator.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\nullspace.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\output.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\print.cpp
+	"main_header.h"
+
+1428756399 source:c:\users\koustubh dwivedy\documents\github\cs101\qr.cpp
+	"main_header.h"
+
+1429110114 source:c:\users\koustubh dwivedy\documents\github\cs101\rank.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\subtraction_operator.cpp
+	"main_header.h"
+
+1428534786 source:c:\users\koustubh dwivedy\documents\github\cs101\transpose.cpp
+	"main_header.h"
+
+1429105485 source:c:\users\koustubh dwivedy\documents\github\cs101\inverse_matrix.c
+
+1429108937 source:c:\users\koustubh dwivedy\documents\github\cs101\inverse_matrix.cpp
+	"main_header.h"
+
+1429109366 source:c:\users\koustubh dwivedy\documents\github\cs101\det.cpp
+	"main_header.h"
+
+1429109928 source:c:\users\koustubh dwivedy\documents\github\cs101\function_checkpermutation.cpp
+	"main_header.h"
+

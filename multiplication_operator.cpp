@@ -26,16 +26,3 @@ Matrix Matrix::operator*(Matrix B)
         return C;
     }
 }
-
-Matrix Matrix::operator*(double f)//f is a scalar factor
-{
-    Matrix a(Rows,Columns,0);
-    for(int i=0; i<Rows; i++)
-    {
-        for(int j=0; j<Columns; j++)
-        {
-            matrix[i][j]=matrix[i][j]*f;
-        }
-    }
-    return a;
-}

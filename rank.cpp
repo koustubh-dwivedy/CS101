@@ -1,9 +1,9 @@
 #include "main_header.h"
-int rank(Matrix &a)
+int Matrix::rank(Matrix &a)
 {
     int r=0;
     Matrix temporary(a.Rows,a.Columns,1);
-    temporary.matrix=choose_matrix(U,a);
+    temporary=choose_matrix('U',a);
     for(int i=0; i<temporary.Rows;i++)
     {
         for(int j=0; j<temporary.Columns;j++)
