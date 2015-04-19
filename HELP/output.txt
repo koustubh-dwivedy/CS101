@@ -1,3 +1,0 @@
-Matrix B(1);				<- Taking input 
-B.output_to_excel();                    <- Outputting in excel
-B.display_output();			<- Displaying result in excel
