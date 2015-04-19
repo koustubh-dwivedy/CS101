@@ -1,4 +1,11 @@
 #include "main_header.h"
+/**
+THIS IS AN OPERATOR;
+TASK: To check if 2 matrices are equal or not;
+SYNTAX: if(A==B){};
+RETURN TYPE: bool;
+NOTE: Takes care of dimensional difference;
+**/
 bool Matrix::operator==(Matrix A)
 {
     if(Rows==A.Rows && Columns==A.Columns)

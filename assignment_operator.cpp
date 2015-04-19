@@ -1,4 +1,10 @@
 #include "main_header.h"
+/**
+THIS IS AN OPERATOR;
+TASK: To assign result to a given matrix;
+SYNTAX: A=B+C;
+NOTE: Takes care of dimensional difference;
+**/
 Matrix Matrix::operator=(Matrix B)
 {
 

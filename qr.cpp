@@ -1,9 +1,11 @@
+/**
+// INPUT:
+// A <->function whose transformation we are doing;
+// Q <-> defined in calling code block with appropriate dimensions (memory) allocated i.e Q(A.Rows,A.Columns,1).
+// R <-> defined in calling code block with appropriate dimensions (memory) allocated i.e R(A.Rows,A.Columns,1).
+// RETURN TYPE : void.
+**/
 #include "main_header.h"
-// This takes in input->
-// A (function whose transformation we are doing)
-// Address of the matrix Q (defined in eigen program with appropriate memory allocated).
-// Address of the matrix R (defined in eigen program with appropriate memory allocated).
-// This returns void.
 void Matrix::qr(Matrix &A, Matrix &Q, Matrix &R)
 {
     // Defining matrices u and e.

@@ -7,59 +7,74 @@
 	<File name="Eij_rre.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="26" topLine="0" />
 	</File>
-	<File name="Inverse_matrix.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="75" topLine="0" />
+	<File name="Inverse_matrix.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="162" topLine="0" />
 	</File>
 	<File name="Permutation_m.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="26" topLine="0" />
 	</File>
-	<File name="RRE_m.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="1171" topLine="37" />
+	<File name="RRE_m.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="467" topLine="0" />
 	</File>
 	<File name="addition_operator.cpp" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="483" topLine="0" />
+		<Cursor1 position="123" topLine="0" />
+	</File>
+	<File name="adjoint.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor1 position="1535" topLine="0" />
 	</File>
 	<File name="assignment_operator.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="365" topLine="0" />
+		<Cursor1 position="93" topLine="0" />
 	</File>
-	<File name="constructor_matrix.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="247" topLine="0" />
+	<File name="constructor_matrix.cpp" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="26" topLine="0" />
 	</File>
-	<File name="det.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="204" topLine="0" />
+	<File name="det.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="520" topLine="0" />
 	</File>
 	<File name="eigen_val.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="1380" topLine="15" />
+		<Cursor1 position="236" topLine="0" />
+	</File>
+	<File name="equality_operator.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="107" topLine="0" />
+	</File>
+	<File name="fn_req_by_koustubh.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="136" topLine="0" />
 	</File>
 	<File name="function_checkPermutation.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="368" topLine="1" />
 	</File>
-	<File name="input_matrix.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="1371" topLine="0" />
+	<File name="input_matrix.cpp" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="568" topLine="0" />
 	</File>
 	<File name="main.cpp" open="0" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="2" zoom_2="0">
-		<Cursor1 position="122" topLine="0" />
+		<Cursor1 position="12068" topLine="289" />
 	</File>
 	<File name="main_header.h" open="0" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="1007" topLine="32" />
+		<Cursor1 position="803" topLine="33" />
 	</File>
 	<File name="matrix_L_m.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="2554" topLine="74" />
+		<Cursor1 position="1236" topLine="18" />
 	</File>
 	<File name="multiplication_operator.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="661" topLine="6" />
+		<Cursor1 position="96" topLine="0" />
+	</File>
+	<File name="nullspace.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="2251" topLine="0" />
 	</File>
 	<File name="output.cpp" open="0" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="387" topLine="0" />
+		<Cursor1 position="156" topLine="0" />
 	</File>
-	<File name="print.cpp" open="0" top="0" tabpos="10" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="206" topLine="0" />
+	<File name="print.cpp" open="0" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="0" topLine="0" />
 	</File>
 	<File name="qr.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="0" topLine="2" />
+		<Cursor1 position="274" topLine="0" />
 	</File>
-	<File name="rank.cpp" open="0" top="0" tabpos="0" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
-		<Cursor1 position="123" topLine="0" />
+	<File name="rank.cpp" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="413" topLine="0" />
+	</File>
+	<File name="solve.cpp" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor1 position="1082" topLine="3" />
 	</File>
 	<File name="subtraction_operator.cpp" open="0" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
 		<Cursor1 position="488" topLine="0" />

@@ -1,4 +1,17 @@
 #include "main_header.h"
+/**
+This is the code for constructing the matrix (CONSTRUCTORS OF Matrix class);
+TASK: To construct matrices;
+SYNTAX:
+    //
+        Argument    Result
+        (n,m,1)     n x m null matrix
+        (n,n,2)     n x n Identity matrix
+    //
+EXAMPLE CODE<->
+Martix A(n,m,1); // Constructs n x m null matrix
+Matrix B(n,n,2); // Constructs n x n null matrix
+**/
 Matrix::Matrix(int a,int b,int c)
 {
     if(c==1)

@@ -1,12 +1,20 @@
+/*
+*Task: Returns the matrix which represents the basis for the nullspace of the given matrix
+*Input type: An object of class Matrix
+*Output type: An object of class Matrix
+*Algorithm: 1.Find the position [i][j] of pivot variables and column no. [j] of free variables
+*           2.Every column of nullspace is a vector x such that one free variable=1 and other free variables are =0
+*               and other elements(corresponding to pivots) are filled such that A*x=0
+*/
 #include "main_header.h"
 Matrix nullspace (Matrix A)
 {
     Matrix nspace(A.Columns,A.Columns,1);
     int nbase=0;
-    int pivots[A.Rows][A.Columns],  freevar[A.Columns];//stores column no of free n pivot var
-    int p=0,f=0;
+    int pivots[A.Rows][A.Columns],  freevar[A.Columns];//stores co-ordinates of pivots and column no. of free variables
+    int p=0,f=0;//p=no. of pivot variables; f=no. of free variables
 
-    for(int i=0; i<A.Rows; i++)
+    for(int i=0; i<A.Rows; i++)//find co-ordinates of pivots
     {
         for(int j=0; j<A.Columns; j++)
         {
@@ -36,7 +44,7 @@ Matrix nullspace (Matrix A)
 
     for(int i=0; i<f; i++)
     {
-        int base[A.Columns];
+        int base[A.Columns];//one of the columns of the final nullspace
         int counter=0;
 
         for(int j=0; j<A.Columns; j++)
@@ -67,7 +75,7 @@ Matrix nullspace (Matrix A)
         {
             nspace.matrix[l][nbase]=base[l];
         }
-        nbase++;
+        nbase++;//nbase stores no. of column vactors req. to construct the nullspace
 
     }
     nspace.Rows=A.Columns;
@@ -75,3 +83,4 @@ Matrix nullspace (Matrix A)
     return nspace;
 
 }
+

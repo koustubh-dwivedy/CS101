@@ -1,4 +1,9 @@
 #include "main_header.h"
+/**
+Task: Finding the eigenvalues of a martix WHOSE QR transformation is possible AND whose eigenvalues ARE NOT COMPLEX.
+Input: Any Matrix;
+OUTPUT: A matrix of order 1xn where n is the number of eigenvalues.
+**/
 Matrix Matrix::eigen_val(Matrix A)
 {
     if(A.Rows==A.Columns)
@@ -6,13 +11,11 @@ Matrix Matrix::eigen_val(Matrix A)
         Matrix B(A.Columns,A.Columns,1),C(A.Columns,A.Columns,1),Q(A.Columns,A.Columns,1),R(A.Columns,A.Columns,1);
         Matrix eigenvalues(1,A.Columns,1);
         double counter=0;
-        int loop_counter=0;
         C=A;
 
 
         while(1)
         {
-            loop_counter=loop_counter+1;
             qr(C,Q,R);
             B=R*Q;
             for(int i=0;i<A.Rows;i++)
@@ -34,13 +37,6 @@ Matrix Matrix::eigen_val(Matrix A)
             }
             C=B;
             counter=0;
-            if(loop_counter==2000)
-            {
-                Matrix output(2);
-                cout << "The given matrix might contain complex eigenvalues which this program doesn't compute"<<endl<<"OR"<<endl<<"The QR transformation of this matrix doesn't exist, upon which the program relies to find the eigenvalues"<<endl;
-                return output;
-                break;
-            }
         }
     }
     else

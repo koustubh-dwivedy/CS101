@@ -1,4 +1,10 @@
 #include "main_header.h"
+/**
+THIS IS AN OPERATOR;
+TASK: To add 2 matrices;
+SYNTAX: A=B+C;
+NOTE: Takes care of dimensional difference;
+**/
 Matrix Matrix::operator+(Matrix B)
 {
     if(Rows==B.Rows && Columns==B.Columns)

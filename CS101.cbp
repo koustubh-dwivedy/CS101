@@ -37,13 +37,14 @@
 		<Unit filename="Permutation_m.cpp" />
 		<Unit filename="RRE_m.cpp" />
 		<Unit filename="addition_operator.cpp" />
+		<Unit filename="adjoint.cpp" />
 		<Unit filename="assignment_operator.cpp" />
 		<Unit filename="constructor_matrix.cpp" />
 		<Unit filename="det.cpp" />
 		<Unit filename="eigen_val.cpp" />
 		<Unit filename="equality_operator.cpp" />
+		<Unit filename="fn_req_by_koustubh.cpp" />
 		<Unit filename="function_checkPermutation.cpp" />
-		<Unit filename="functions_req_by_koustubh.cpp" />
 		<Unit filename="input_matrix.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="main_header.h" />
@@ -54,8 +55,8 @@
 		<Unit filename="print.cpp" />
 		<Unit filename="qr.cpp" />
 		<Unit filename="rank.cpp" />
+		<Unit filename="solve.cpp" />
 		<Unit filename="subtraction_operator.cpp" />
-		<Unit filename="transpose.cpp" />
 		<Extensions>
 			<code_completion />
 			<envvars />
